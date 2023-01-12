@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution":"node",
+    "module": "es6",
+    "target": "es5",
+    "esModuleInterop": true,
+    "sourceMap": true
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": [
+    "node_modules"
+  ]
+}
